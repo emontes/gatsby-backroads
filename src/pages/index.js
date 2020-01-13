@@ -10,7 +10,7 @@ export default () => (
     <SimleHero>
       <Banner
         title="continua explorando"
-        info=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, officiis."
+        info=" La vida está llena de aventuras no te quedes encerrado mientra ella pasa."
       >
         <Link to="/tours" className="btn-white">
           explore tours
